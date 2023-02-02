@@ -14,7 +14,7 @@ public class Juego {
     public static int MAXY=400;
     public boolean pausa = false;
     public int nLineas;
-    //holasoynicol
+    
     public void moverFichaDerecha() {
 
     }
