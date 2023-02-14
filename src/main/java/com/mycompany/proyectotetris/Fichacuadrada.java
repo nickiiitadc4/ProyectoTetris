@@ -1,5 +1,7 @@
 package com.mycompany.proyectotetris;
 
 public class Fichacuadrada extends Ficha{
-    Color color=black;
+    public void dimensiones(){
+    cuadrados.add()
+    }
 }
