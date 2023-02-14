@@ -15,9 +15,9 @@ public class Cuadrado {
     public Color colorRelleno;
     public Label LabelCuadrado;
     public  int[][] coordenadas;
-    Array<Cuadrado>cuadrados=new Arraylist<Cuadrado>;
+    Array<Cuadrado>cuadrados=new <Cuadrado> Arraylist;
     public String getCoordenadas(){
-        
+ 
         return [x,y];
 
     }
