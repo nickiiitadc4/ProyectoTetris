@@ -11,21 +11,23 @@ package com.mycompany.proyectotetris;
 public abstract class Ficha {
     public void moverDerecha() {
         getcoordenadas();
+        for(int x
         x=x+1;
     }
 
     public void moverIzquierda() {
         getcoordenadas();
+        for(int x; x<0;x--){
         x=x-1;
-
+        }
     }
 
     public void moverAbajo() {
         getcoordenadas();
         
-       for (int y; y<=)
-        y=y-y;
-
+       for (int y; y<=0;y--){
+          if(
+      }
     }
 
     public void rotar() {
