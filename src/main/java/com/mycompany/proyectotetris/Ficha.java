@@ -10,7 +10,7 @@ package com.mycompany.proyectotetris;
  */
 public abstract class Ficha {
     public void moverDerecha() {
-
+    
     }
 
     public void moverIzquierda() {
