@@ -15,14 +15,20 @@ public class Juego {
     public boolean pausa = false;
     public int nLineas;
     
+    //en este metodo lograremos que los jlabel se muevan de forma unisona hacia un mismo lado 
+    //en este caso hacia la derecha 
     public void moverFichaDerecha() {
+        
+        
 
     }
-
+//en este metodo lograremos que los jlabel se muevan de forma unisona hacia un mismo lado 
+//en este caso hacia la izquierda
     public void moverFichaIzquierda() {
-
+ 
     }
-
+ //en este metodo lograremos que los jlabel se muevan de forma unisona hacia un mismo lado 
+//en este caso hacia la derecha 
     public void moverFichaAbajo() {
 
     }
